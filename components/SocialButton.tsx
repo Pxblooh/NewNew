@@ -47,8 +47,8 @@ const socialLinks: SocialLink[] = [
     color: "bg-gradient-to-r from-green-500 to-green-700 hover:from-green-600 hover:to-green-800",
   },
   {
-    href: "bereal://pablooo12",
-    webHref: "https://BeRe.al/pablooo12",
+    href: "bereal://pablooo.12",
+    webHref: "https://BeRe.al/pablooo.12",
     icon: BeRealLogo,
     label: "BeReal",
     color: "bg-gradient-to-r from-[#1a1a1a] to-[#3a3a3a] hover:from-[#2a2a2a] hover:to-[#4a4a4a]",
